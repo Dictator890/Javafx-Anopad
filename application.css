@@ -1,0 +1,14 @@
+.text-area
+{
+	text-area-background:white;
+            -fx-text-fill:black;
+} 
+
+.text-area .content {
+    -fx-background-color:text-area-background ;
+ 
+}
+
+.menu-bar {
+	-fx-background-color:aquamarine     ;
+}
